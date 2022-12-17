@@ -39,6 +39,7 @@ public CodeDTO createCode(Param param) {
 }
 ```
 # 具体实现
+![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6ae3e33e21c74745b0719ff7cc592623~tplv-k3u1fbpfcp-watermark.image?)
 
 ![本地负载均衡器.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a6129aa365c42afa70a1e9a43a29b69~tplv-k3u1fbpfcp-watermark.image?)
 
